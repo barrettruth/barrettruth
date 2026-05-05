@@ -1,9 +1,9 @@
 # barrettruth
 
 > [!IMPORTANT]
-> Due to GitHub's historic unreliability, development, issues, pull requests,
-> and canonical source history have moved to
+> Due to GitHub's historic unreliability, active development is hosted on
 > [Forgejo](https://git.barrettruth.com/barrettruth).
+> GitHub is maintained as a read-only mirror for discovery.
 
-GitHub remains a read-only mirror for discovery. For current code, issues, and
-contributions, use [git.barrettruth.com/barrettruth](https://git.barrettruth.com/barrettruth).
+For current code, issues, pull requests, and more, see
+[git.barrettruth.com/barrettruth](https://git.barrettruth.com/barrettruth).
